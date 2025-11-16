@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 Discussions
+    url: https://github.com/ApalanQ-org/.github/discussions
+    about: Ask questions and discuss ideas with the community
+  - name: 📖 Documentation
+    url: https://github.com/ApalanQ-org/.github/blob/main/README.md
+    about: Read about Copilot coding agent capabilities
