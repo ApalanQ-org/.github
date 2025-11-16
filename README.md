@@ -72,10 +72,22 @@ To leverage the Copilot coding agent in your projects:
 - **Review Changes**: Always review and test proposed changes
 - **Maintain Standards**: Ensure changes align with project guidelines
 
+## Documentation
+
+- **[Comprehensive Capabilities Guide](./docs/CAPABILITIES_GUIDE.md)** - Detailed examples and best practices
+- **[Documentation Index](./docs/INDEX.md)** - Complete navigation guide
+- **[Contributing Guidelines](./CONTRIBUTING.md)** - How to contribute effectively
+- **[Security Policy](./SECURITY.md)** - Security best practices and reporting
+
+## Templates
+
+- **[Issue Templates](./.github/ISSUE_TEMPLATE/)** - Structured templates for different types of issues
+- **[Pull Request Template](./.github/pull_request_template.md)** - Standard PR template
+
 ## Resources
 
 - [GitHub Documentation](https://docs.github.com)
-- [Contributing Guidelines](./CONTRIBUTING.md)
+- [GitHub Copilot](https://github.com/features/copilot)
 
 ---
 
