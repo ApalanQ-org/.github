@@ -56,6 +56,8 @@ Improve code quality and maintainability:
 
 ## Getting Started
 
+**Quick Start**: See [QUICKSTART.md](./QUICKSTART.md) for a quick reference guide.
+
 To leverage the Copilot coding agent in your projects:
 
 1. Ensure clear issue descriptions with context
